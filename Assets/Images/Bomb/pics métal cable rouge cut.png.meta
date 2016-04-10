@@ -1,0 +1,88 @@
+fileFormatVersion: 2
+guid: 2403242b3d3f8bd4b83712a2c8316718
+timeCreated: 1460268760
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "pics m\xE9tal cable rouge cut_1"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "pics m\xE9tal cable rouge cut_1"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 697
+        width: 121
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 17.5}
+        - {x: -60.5, y: 8.5}
+        - {x: -52.5, y: -2.5}
+        - {x: -20.5, y: -17.5}
+        - {x: -13.5, y: -17.5}
+        - {x: -13.5, y: -9.5}
+        - {x: -53.5, y: 17.5}
+      - - {x: 60.5, y: 8.5}
+        - {x: 60.5, y: 16.5}
+        - {x: 40.5, y: 17.5}
+        - {x: -30.5, y: 17.5}
+        - {x: -30.5, y: 5.5}
+        - {x: -4.5, y: -2.5}
+        - {x: 55.5, y: -2.5}
+        - {x: 60.5, y: 0.5}
+        - {x: 60.5, y: 1.5}
+        - {x: 58.5, y: 5.5}
+        - {x: 57.5, y: 8.5}
+        - {x: 46.5, y: 7.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
